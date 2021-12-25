@@ -1,0 +1,1 @@
+For this project, I was tasked with creating a recipe index using HTML. The index contains links to three recipes pages. I formatted each page and used headings, ordered and unordered lists, bold/italic text, and hyperlinks as well as images.
